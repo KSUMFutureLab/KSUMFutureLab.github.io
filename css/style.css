@@ -1,0 +1,85 @@
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Josefin Sans', sans-serif; }
+
+#firstcontainer {
+  background: #000000;
+  height: 100vh; }
+  #firstcontainer #horizon {
+    margin-left: -20px; }
+  #firstcontainer #textcontent {
+    margin-top: -70px; }
+    #firstcontainer #textcontent h3, #firstcontainer #textcontent h5, #firstcontainer #textcontent p {
+      color: #fefefe; }
+    #firstcontainer #textcontent h5 {
+      font-weight: 300; }
+    #firstcontainer #textcontent h3 {
+      font-weight: 600;
+      margin-top: -5px; }
+    #firstcontainer #textcontent p {
+      font-weight: 300;
+      font-size: 17px;
+      letter-spacing: .08em; }
+    #firstcontainer #textcontent button {
+      background: #fefefe;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-size: 14px;
+      border-radius: 3px; }
+
+#secondcontainer {
+  height: 100vh;
+  padding-top: 20vh;
+  padding-bottom: 20vh; }
+  #secondcontainer h5 {
+    font-weight: 300; }
+  #secondcontainer #vrheadsetimage img {
+    margin-top: 10vh; }
+  #secondcontainer #supportedtech {
+    margin-top: 18vh; }
+    #secondcontainer #supportedtech h3 {
+      font-weight: 300; }
+    #secondcontainer #supportedtech button {
+      background: #000000;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 6px;
+      padding-bottom: 6px;
+      font-size: 14px;
+      border-radius: 5px;
+      font-weight: 300;
+      color: #fefefe; }
+
+#Thirdcontainer #letstalk {
+  background: url("../assets/letstalk.jpg");
+  background-position: left;
+  height: 80vh;
+  background-size: cover; }
+#Thirdcontainer #futuresparkandlabs #futurespark {
+  height: 40vh;
+  background: url("../assets/futurespark.jpg");
+  background-position: center;
+  background-size: cover; }
+#Thirdcontainer #futuresparkandlabs #labs {
+  height: 40vh;
+  background: url("../assets/labs.jpg");
+  background-position: center;
+  background-size: cover; }
+
+#subfooter {
+  background: #000000;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  color: #fefefe; }
+  #subfooter h5, #subfooter p {
+    font-weight: 300; }
+
+#partners {
+  padding: 15px; }
+  #partners #futurelabfulllogo {
+    margin-left: -30px; }
+  #partners #startupmission {
+    margin-left: 50px; }
+  #partners img {
+    height: 40px; }
