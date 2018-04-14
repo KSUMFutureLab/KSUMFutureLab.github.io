@@ -1,2 +1,2 @@
-# KSUM [FutureLab](https://FutureLab.github.io)
+# KSUM [FutureLab](https://KSUMFutureLab.github.io)
 Website for Future Technologies Lab KSUM.
